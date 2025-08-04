@@ -172,13 +172,7 @@
             transform: scale(1.1);
         }
         
-        .empty-state {
-            text-align: center;
-            padding: 30px 20px;
-            color: #000000;
-            font-style: italic;
-            width: 100%;
-        }
+       
         
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(10px); }
